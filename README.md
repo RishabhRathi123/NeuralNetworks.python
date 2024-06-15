@@ -64,5 +64,5 @@ The model is evaluated on a separate validation set to monitor its performance. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dogs-vs-cats-image-recognition.git
-   cd dogs-vs-cats-image-recognition
+   git clone https://github.com/RishabhRathi123/NeuralNetworks.python.git
+   cd NeuralNetworks.python
